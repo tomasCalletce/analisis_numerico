@@ -1,8 +1,6 @@
 # analisis_numerico
 
-Implementacion de: 
+Implementación para determinar aproximaciones iniciales 
 
-	Implementación para determinar aproximaciones iniciales 
-
-Metodo búsquedas incrementales 
-Metodo de biseccion
+1. Metodo búsquedas incrementales 
+2. Metodo de biseccion
